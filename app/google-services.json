@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "541870209115",
+    "project_id": "practicafirebase-83902",
+    "storage_bucket": "practicafirebase-83902.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541870209115:android:1f36379290f8b06319a77e",
+        "android_client_info": {
+          "package_name": "com.example.Peliculon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7N_ps6zD8eoyfZO_osYDEH1rPn6ie00I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
